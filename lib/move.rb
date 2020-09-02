@@ -12,5 +12,5 @@ space.to_i - 1
 end
 
 def move(space = 0, board, character)
-
+display_board
 end
