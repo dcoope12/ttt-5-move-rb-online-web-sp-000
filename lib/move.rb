@@ -12,5 +12,5 @@ space.to_i - 1
 end
 
 def move(board, character,space = 1)
-   board[index] = player
+   board[space] = character
 end
